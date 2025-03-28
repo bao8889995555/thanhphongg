@@ -1,5 +1,8 @@
- 
-      .header {color: light-blue; background-color: gray; text-align: center; padding: 30px;}
+html { 
+ height: 100%;
+ width: 100% ;
+}
+ .header {color: light-blue; background-color: gray; text-align: center; padding: 30px;}
       .menu {color: tomato; background-color: yellow;}
       .menu a {}
       .menu a: hover{color: pink;}
